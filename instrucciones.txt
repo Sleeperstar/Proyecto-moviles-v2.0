@@ -1,0 +1,15 @@
+1 Crear y activar entorno virtual
+  → virtualenv venv
+  → .\venv\Scripts\activate
+
+2 Instalar paquetes
+  → pip install -r requirements.txt
+
+3 Iniciar programa
+  → py app.py
+
+4 Terminar programa
+  → "Ctrl + C"
+
+5 Cerrar entorno virtual
+  → .\venv\Scripts\deactivate.bat
